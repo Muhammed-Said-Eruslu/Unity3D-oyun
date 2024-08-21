@@ -1,1 +1,1 @@
-# deneme
+# Bunu okuyan maldır
